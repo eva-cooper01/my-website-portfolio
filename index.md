@@ -21,7 +21,7 @@ title: Eva Cooper
     border-radius: 16px;
   ">
 
-    <img src="assets/images/profile_picture_under_1mb.jpg"
+    <img src="assets/images/profile_pic.jpeg"
          alt="Eva Cooper"
          style="
            width: 120px;
