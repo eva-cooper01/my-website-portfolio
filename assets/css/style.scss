@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the big theme header/title block */
+.page-header {
+  display: none !important;
+}
+
+/* Optional: reduce top padding since header is gone */
+.main-content {
+  padding-top: 2rem;
+}
