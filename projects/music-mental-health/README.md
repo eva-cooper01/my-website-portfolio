@@ -31,22 +31,22 @@ Next data validation was applied across all columns for viable outputs. For exam
 By applying structured ETL process the project adhered to best practices for reproduce ability, scalability and minimising risk. The workflow can be refreshed easily, manual intervention has been reduced all supporting future updates. This all aligns with modern trends in engineering such as automation and cloud integration and these transformation steps also minimise and enhance downstream analysis. Cloud computing has revolutionised data engineering and the infrastructure offers scalable and cost effective platforms for data storage and processing so data engineers can easily scale up or down based on changing volumes (Binariks, 2025)
 
 <figure>
-  <img src="images/date_standardisation.png" alt="Date standardisation in Power Query">
+  <img src="images/date_standardisation.jpg" alt="Date standardisation in Power Query">
   <figcaption><em>Image 1: Date standardisation in Power Query</em></figcaption>
 </figure>
 
 <figure>
-  <img src="images/custom_column_transformation.png" alt="Custom column transformation">
+  <img src="images/custom_column_transformation.jpg" alt="Custom column transformation">
   <figcaption><em>Image 2: Custom column transformation</em></figcaption>
 </figure>
 
 <figure>
-  <img src="images/rating_validation.png" alt="Rating validation">
+  <img src="images/rating_validation.jpg" alt="Rating validation">
   <figcaption><em>Image 3: Rating validation</em></figcaption>
 </figure>
 
 <figure>
-  <img src="images/null_value_handling.png" alt="Null value handling">
+  <img src="images/null_value_handling.jpg" alt="Null value handling">
   <figcaption><em>Image 4: Null value handling</em></figcaption>
 </figure>
 
