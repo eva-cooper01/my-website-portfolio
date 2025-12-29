@@ -30,10 +30,10 @@ This was achieved by creating a custom column that extracted and reformatted par
 Next data validation was applied across all columns for viable outputs. For example the mental health ratings were checked to make sure they fell within the range of 0-10 and were whole values. (Image 3) Null values were addressed with caution. While some blanks were acceptable, like optional demographic fields, essential columns like Music Effects required complete data as they formed the basis of analysis. (Image 4)
 By applying structured ETL process the project adhered to best practices for reproduce ability, scalability and minimising risk. The workflow can be refreshed easily, manual intervention has been reduced all supporting future updates. This all aligns with modern trends in engineering such as automation and cloud integration and these transformation steps also minimise and enhance downstream analysis. Cloud computing has revolutionised data engineering and the infrastructure offers scalable and cost effective platforms for data storage and processing so data engineers can easily scale up or down based on changing volumes (Binariks, 2025)
 
-![Date standardisation in Power Query](images/Image 1 - date format.png)
-![Custom column transformation](images/image 2 - formatting code for date.png)
-![Rating validation](images/image 3 - correct figures 1-10.png)
-![Null value handling](images/image 4 - filtered rows.png)
+![Date standardisation in Power Query](images/date_standardisation.png)
+![Custom column transformation](images/custom_column_transformation.png)
+![Rating validation](images/rating_validation.png)
+![Null value handling](images/null_value_handling.png)
 
 ## Data Visualisation and Dashboards
 
